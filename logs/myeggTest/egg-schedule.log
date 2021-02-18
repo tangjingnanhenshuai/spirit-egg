@@ -1,0 +1,642 @@
+2021-01-23 17:32:26,859 INFO 17608 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39453143ms at 2021-01-24 04:30:00.002
+2021-01-23 17:32:26,859 INFO 17608 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23253141ms at 2021-01-24 00:00:00.000
+2021-01-23 17:32:26,859 INFO 17608 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23254141ms at 2021-01-24 00:00:01.000
+2021-01-23 17:32:26,655 INFO 20872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 17:32:26,655 INFO 20872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 17:32:26,655 INFO 20872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 17:34:50,286 INFO 6844 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 17:34:50,286 INFO 6844 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 17:34:50,286 INFO 6844 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 17:38:41,869 INFO 12612 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 17:38:41,869 INFO 12612 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 17:38:41,869 INFO 12612 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 17:40:05,754 INFO 14700 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38994248ms at 2021-01-24 04:30:00.002
+2021-01-23 17:40:05,755 INFO 14700 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22794245ms at 2021-01-24 00:00:00.000
+2021-01-23 17:40:05,755 INFO 14700 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22795245ms at 2021-01-24 00:00:01.000
+2021-01-23 17:40:05,570 INFO 15232 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 17:40:05,570 INFO 15232 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 17:40:05,570 INFO 15232 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:05:55,982 INFO 4652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:05:55,982 INFO 4652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:05:55,982 INFO 4652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:06:58,464 INFO 2744 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:06:58,464 INFO 2744 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:06:58,464 INFO 2744 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:07:16,504 INFO 19260 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:07:16,504 INFO 19260 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:07:16,504 INFO 19260 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:18:44,412 INFO 11648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:18:44,412 INFO 11648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:18:44,412 INFO 11648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:20:03,778 INFO 19616 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:20:03,778 INFO 19616 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:20:03,778 INFO 19616 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:20:18,251 INFO 13264 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:20:18,251 INFO 13264 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:20:18,251 INFO 13264 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:20:53,273 INFO 15568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:20:53,273 INFO 15568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:20:53,273 INFO 15568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:21:28,695 INFO 14996 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:21:28,695 INFO 14996 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:21:28,695 INFO 14996 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:25:18,775 INFO 7428 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36281229ms at 2021-01-24 04:30:00.004
+2021-01-23 18:25:18,775 INFO 7428 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 20081225ms at 2021-01-24 00:00:00.000
+2021-01-23 18:25:18,776 INFO 7428 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20082225ms at 2021-01-24 00:00:01.001
+2021-01-23 18:25:18,534 INFO 5044 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:25:18,534 INFO 5044 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:25:18,534 INFO 5044 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:28:08,190 INFO 8952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:28:08,190 INFO 8952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:28:08,190 INFO 8952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:28:10,149 INFO 17140 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:28:10,149 INFO 17140 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:28:10,149 INFO 17140 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-23 18:28:14,347 INFO 18556 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-23 18:28:14,347 INFO 18556 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-23 18:28:14,347 INFO 18556 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 10:41:28,521 INFO 16112 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64111484ms at 2021-01-25 04:30:00.005
+2021-01-24 10:41:28,522 INFO 16112 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47911479ms at 2021-01-25 00:00:00.001
+2021-01-24 10:41:28,522 INFO 16112 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47912478ms at 2021-01-25 00:00:01.000
+2021-01-24 10:41:28,187 INFO 21668 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 10:41:28,187 INFO 21668 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 10:41:28,187 INFO 21668 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 10:48:38,543 INFO 21400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 10:48:38,543 INFO 21400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 10:48:38,543 INFO 21400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 10:49:03,433 INFO 12276 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 10:49:03,433 INFO 12276 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 10:49:03,433 INFO 12276 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 10:58:27,488 INFO 17428 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 10:58:27,488 INFO 17428 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 10:58:27,488 INFO 17428 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:04:16,416 INFO 18424 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:04:16,416 INFO 18424 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:04:16,416 INFO 18424 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:04:51,193 INFO 10500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:04:51,193 INFO 10500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:04:51,193 INFO 10500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:09:56,820 INFO 20464 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:09:56,820 INFO 20464 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:09:56,820 INFO 20464 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:10:51,479 INFO 19444 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:10:51,479 INFO 19444 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:10:51,479 INFO 19444 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:13:39,929 INFO 20644 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:13:39,929 INFO 20644 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:13:39,929 INFO 20644 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:15:19,374 INFO 16516 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:15:19,374 INFO 16516 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:15:19,374 INFO 16516 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:15:52,846 INFO 17468 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:15:52,846 INFO 17468 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:15:52,846 INFO 17468 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:18:03,768 INFO 4252 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:18:03,768 INFO 4252 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:18:03,768 INFO 4252 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:18:58,897 INFO 23520 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:18:58,897 INFO 23520 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:18:58,897 INFO 23520 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:20:17,108 INFO 12444 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:20:17,108 INFO 12444 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:20:17,108 INFO 12444 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:21:07,649 INFO 17136 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:21:07,649 INFO 17136 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:21:07,649 INFO 17136 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:21:31,971 INFO 19104 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:21:31,971 INFO 19104 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:21:31,971 INFO 19104 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:24:40,590 INFO 8004 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:24:40,590 INFO 8004 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:24:40,590 INFO 8004 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:25:35,060 INFO 20952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:25:35,060 INFO 20952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:25:35,060 INFO 20952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:26:00,761 INFO 23500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:26:00,761 INFO 23500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:26:00,761 INFO 23500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:29:45,800 INFO 12184 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:29:45,800 INFO 12184 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:29:45,800 INFO 12184 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:30:38,576 INFO 3600 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:30:38,576 INFO 3600 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:30:38,576 INFO 3600 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:34:21,213 INFO 16564 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:34:21,213 INFO 16564 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:34:21,213 INFO 16564 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 11:34:27,834 INFO 11960 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 11:34:27,834 INFO 11960 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 11:34:27,834 INFO 11960 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:19:46,863 INFO 14988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:19:46,863 INFO 14988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:19:46,863 INFO 14988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:19:47,359 INFO 4160 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33012643ms at 2021-01-25 04:30:00.002
+2021-01-24 19:19:47,360 INFO 4160 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16812641ms at 2021-01-25 00:00:00.001
+2021-01-24 19:19:47,360 INFO 4160 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16813640ms at 2021-01-25 00:00:01.000
+2021-01-24 19:20:37,152 INFO 16288 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:20:37,152 INFO 16288 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:20:37,152 INFO 16288 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:20:39,194 INFO 5956 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:20:39,194 INFO 5956 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:20:39,194 INFO 5956 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:21:35,990 INFO 7400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:21:35,990 INFO 7400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:21:35,990 INFO 7400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:21:36,485 INFO 5868 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32903518ms at 2021-01-25 04:30:00.003
+2021-01-24 19:21:36,485 INFO 5868 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16703515ms at 2021-01-25 00:00:00.000
+2021-01-24 19:21:36,486 INFO 5868 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16704515ms at 2021-01-25 00:00:01.001
+2021-01-24 19:25:30,315 INFO 10812 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:25:30,315 INFO 10812 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:25:30,315 INFO 10812 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:26:44,161 INFO 13352 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:26:44,161 INFO 13352 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:26:44,161 INFO 13352 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:26:52,403 INFO 16268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:26:52,403 INFO 16268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:26:52,403 INFO 16268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:27:12,339 INFO 11836 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:27:12,339 INFO 11836 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:27:12,339 INFO 11836 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:28:49,171 INFO 12916 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:28:49,171 INFO 12916 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:28:49,171 INFO 12916 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:29:23,815 INFO 14456 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:29:23,815 INFO 14456 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:29:23,815 INFO 14456 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:30:59,133 INFO 2376 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:30:59,133 INFO 2376 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:30:59,133 INFO 2376 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:32:43,697 INFO 13212 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:32:43,697 INFO 13212 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:32:43,697 INFO 13212 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:32:44,277 INFO 16336 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32235727ms at 2021-01-25 04:30:00.004
+2021-01-24 19:32:44,277 INFO 16336 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16035723ms at 2021-01-25 00:00:00.000
+2021-01-24 19:32:44,277 INFO 16336 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16036723ms at 2021-01-25 00:00:01.000
+2021-01-24 19:33:47,031 INFO 1268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:33:47,031 INFO 1268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:33:47,031 INFO 1268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:34:08,036 INFO 10404 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:34:08,036 INFO 10404 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:34:08,036 INFO 10404 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:34:41,064 INFO 14280 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:34:41,064 INFO 14280 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:34:41,064 INFO 14280 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:36:23,260 INFO 15480 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:36:23,260 INFO 15480 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:36:23,260 INFO 15480 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:38:27,962 INFO 13236 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:38:27,963 INFO 13236 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:38:27,963 INFO 13236 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:38:58,570 INFO 11548 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:38:58,570 INFO 11548 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:38:58,570 INFO 11548 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:40:16,511 INFO 1720 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:40:16,511 INFO 1720 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:40:16,511 INFO 1720 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:41:07,568 INFO 948 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:41:07,568 INFO 948 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:41:07,568 INFO 948 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:41:08,107 INFO 15964 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31731897ms at 2021-01-25 04:30:00.003
+2021-01-24 19:41:08,107 INFO 15964 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 15531893ms at 2021-01-25 00:00:00.000
+2021-01-24 19:41:08,107 INFO 15964 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15532893ms at 2021-01-25 00:00:01.000
+2021-01-24 19:42:14,307 INFO 13112 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:42:14,308 INFO 13112 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:42:14,308 INFO 13112 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:43:48,047 INFO 14884 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:43:48,047 INFO 14884 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:43:48,047 INFO 14884 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:49:55,194 INFO 12400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:49:55,194 INFO 12400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:49:55,194 INFO 12400 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:49:55,742 INFO 4340 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31204260ms at 2021-01-25 04:30:00.002
+2021-01-24 19:49:55,743 INFO 4340 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 15004257ms at 2021-01-25 00:00:00.000
+2021-01-24 19:49:55,743 INFO 4340 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15005257ms at 2021-01-25 00:00:01.000
+2021-01-24 19:51:54,216 INFO 14820 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:51:54,216 INFO 14820 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:51:54,216 INFO 14820 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:52:12,315 INFO 16096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:52:12,315 INFO 16096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:52:12,315 INFO 16096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:55:22,773 INFO 1456 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:55:22,773 INFO 1456 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:55:22,773 INFO 1456 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:55:23,263 INFO 7032 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 30876739ms at 2021-01-25 04:30:00.002
+2021-01-24 19:55:23,264 INFO 7032 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 14676736ms at 2021-01-25 00:00:00.000
+2021-01-24 19:55:23,264 INFO 7032 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14677736ms at 2021-01-25 00:00:01.000
+2021-01-24 19:56:16,337 INFO 8064 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:56:16,337 INFO 8064 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:56:16,337 INFO 8064 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:57:02,453 INFO 15048 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:57:02,453 INFO 15048 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:57:02,453 INFO 15048 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:57:02,947 INFO 8912 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 30777056ms at 2021-01-25 04:30:00.003
+2021-01-24 19:57:02,948 INFO 8912 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 14577053ms at 2021-01-25 00:00:00.001
+2021-01-24 19:57:02,948 INFO 8912 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14578052ms at 2021-01-25 00:00:01.000
+2021-01-24 19:57:49,808 INFO 11592 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:57:49,808 INFO 11592 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:57:49,808 INFO 11592 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:58:20,730 INFO 4368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:58:20,730 INFO 4368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:58:20,730 INFO 4368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:59:14,990 INFO 5936 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:59:14,990 INFO 5936 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:59:14,990 INFO 5936 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 19:59:31,877 INFO 11964 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 19:59:31,877 INFO 11964 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 19:59:31,878 INFO 11964 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:00:38,791 INFO 16024 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:00:38,791 INFO 16024 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:00:38,791 INFO 16024 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:01:01,237 INFO 6200 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:01:01,237 INFO 6200 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:01:01,237 INFO 6200 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:02:19,678 INFO 12636 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:02:19,678 INFO 12636 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:02:19,678 INFO 12636 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:03:46,867 INFO 16284 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:03:46,867 INFO 16284 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:03:46,867 INFO 16284 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:03:53,959 INFO 14832 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:03:53,959 INFO 14832 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:03:53,959 INFO 14832 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:04:01,545 INFO 9000 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:04:01,545 INFO 9000 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:04:01,545 INFO 9000 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:05:12,062 INFO 15756 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:05:12,062 INFO 15756 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:05:12,062 INFO 15756 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:07:06,824 INFO 2168 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:07:06,824 INFO 2168 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:07:06,824 INFO 2168 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:07:25,668 INFO 13268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:07:25,668 INFO 13268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:07:25,668 INFO 13268 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:08:01,048 INFO 5364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:08:01,048 INFO 5364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:08:01,048 INFO 5364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:09:09,195 INFO 4600 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:09:09,195 INFO 4600 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:09:09,195 INFO 4600 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:09:27,304 INFO 12028 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:09:27,304 INFO 12028 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:09:27,304 INFO 12028 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-24 20:09:46,559 INFO 15540 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-24 20:09:46,559 INFO 15540 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-24 20:09:46,559 INFO 15540 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 11:53:56,080 INFO 4648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 11:53:56,080 INFO 4648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 11:53:56,080 INFO 4648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 11:53:56,630 INFO 4584 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 59763374ms at 2021-02-01 04:30:00.003
+2021-01-31 11:53:56,630 INFO 4584 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 43563370ms at 2021-02-01 00:00:00.000
+2021-01-31 11:53:56,631 INFO 4584 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 43564370ms at 2021-02-01 00:00:01.001
+2021-01-31 12:05:14,383 INFO 900 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:05:14,383 INFO 900 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:05:14,383 INFO 900 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:05:20,023 INFO 11228 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:05:20,023 INFO 11228 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:05:20,023 INFO 11228 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:07:41,958 INFO 12136 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:07:41,958 INFO 12136 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:07:41,958 INFO 12136 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:07:45,974 INFO 1356 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:07:45,974 INFO 1356 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:07:45,974 INFO 1356 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:07:48,106 INFO 10780 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:07:48,106 INFO 10780 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:07:48,106 INFO 10780 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:14:28,946 INFO 9096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:14:28,946 INFO 9096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:14:28,946 INFO 9096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:14:39,937 INFO 9140 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:14:39,937 INFO 9140 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:14:39,937 INFO 9140 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:14:40,456 INFO 14680 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 58519546ms at 2021-02-01 04:30:00.002
+2021-01-31 12:14:40,456 INFO 14680 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 42319544ms at 2021-02-01 00:00:00.000
+2021-01-31 12:14:40,457 INFO 14680 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 42320544ms at 2021-02-01 00:00:01.001
+2021-01-31 12:14:58,018 INFO 5952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:14:58,018 INFO 5952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:14:58,018 INFO 5952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:15:06,418 INFO 12340 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:15:06,418 INFO 12340 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:15:06,418 INFO 12340 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:15:40,503 INFO 1900 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:15:40,503 INFO 1900 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:15:40,503 INFO 1900 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:15:51,381 INFO 7452 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:15:51,381 INFO 7452 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:15:51,381 INFO 7452 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:26:43,152 INFO 1080 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:26:43,152 INFO 1080 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:26:43,152 INFO 1080 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:27:22,266 INFO 10872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:27:22,266 INFO 10872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:27:22,266 INFO 10872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:27:47,312 INFO 11304 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:27:47,312 INFO 11304 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:27:47,312 INFO 11304 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:28:01,805 INFO 14112 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:28:01,805 INFO 14112 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:28:01,805 INFO 14112 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:28:42,260 INFO 13116 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:28:42,260 INFO 13116 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:28:42,260 INFO 13116 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:28:59,682 INFO 9652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:28:59,682 INFO 9652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:28:59,682 INFO 9652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:29:36,209 INFO 1256 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:29:36,209 INFO 1256 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:29:36,209 INFO 1256 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:31:02,626 INFO 12324 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:31:02,626 INFO 12324 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:31:02,626 INFO 12324 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:31:04,788 INFO 7116 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:31:04,788 INFO 7116 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:31:04,788 INFO 7116 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:31:16,343 INFO 4292 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:31:16,343 INFO 4292 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:31:16,343 INFO 4292 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:31:16,859 INFO 10424 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 57523144ms at 2021-02-01 04:30:00.003
+2021-01-31 12:31:16,859 INFO 10424 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 41323141ms at 2021-02-01 00:00:00.000
+2021-01-31 12:31:16,860 INFO 10424 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 41324141ms at 2021-02-01 00:00:01.001
+2021-01-31 12:31:43,362 INFO 12000 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:31:43,362 INFO 12000 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:31:43,362 INFO 12000 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:31:57,348 INFO 8368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:31:57,348 INFO 8368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:31:57,348 INFO 8368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:32:12,054 INFO 6044 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:32:12,054 INFO 6044 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:32:12,054 INFO 6044 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:32:40,616 INFO 9908 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:32:40,616 INFO 9908 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:32:40,616 INFO 9908 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:32:55,614 INFO 3168 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:32:55,614 INFO 3168 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:32:55,614 INFO 3168 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:33:12,369 INFO 7248 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:33:12,369 INFO 7248 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:33:12,369 INFO 7248 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:33:25,615 INFO 9952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:33:25,615 INFO 9952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:33:25,615 INFO 9952 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:33:40,397 INFO 9648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:33:40,397 INFO 9648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:33:40,397 INFO 9648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:45:21,164 INFO 15652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:45:21,164 INFO 15652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:45:21,164 INFO 15652 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:58:34,691 INFO 4480 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:58:34,691 INFO 4480 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:58:34,691 INFO 4480 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:58:36,805 INFO 1096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:58:36,805 INFO 1096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:58:36,805 INFO 1096 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:58:50,523 INFO 128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:58:50,523 INFO 128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:58:50,523 INFO 128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:59:01,961 INFO 14364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:59:01,962 INFO 14364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:59:01,962 INFO 14364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:59:27,220 INFO 5668 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:59:27,220 INFO 5668 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:59:27,220 INFO 5668 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:59:31,282 INFO 3872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:59:31,282 INFO 3872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:59:31,282 INFO 3872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:59:33,593 INFO 4080 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:59:33,593 INFO 4080 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:59:33,593 INFO 4080 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 12:59:35,919 INFO 10988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 12:59:35,919 INFO 10988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 12:59:35,919 INFO 10988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:01:39,343 INFO 9608 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:01:39,343 INFO 9608 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:01:39,343 INFO 9608 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:02:42,792 INFO 10276 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:02:42,792 INFO 10276 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:02:42,792 INFO 10276 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:02:43,320 INFO 6104 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 55636682ms at 2021-02-01 04:30:00.002
+2021-01-31 13:02:43,321 INFO 6104 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 39436679ms at 2021-02-01 00:00:00.000
+2021-01-31 13:02:43,321 INFO 6104 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 39437679ms at 2021-02-01 00:00:01.000
+2021-01-31 13:04:33,498 INFO 7648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:04:33,498 INFO 7648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:04:33,498 INFO 7648 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:04:48,379 INFO 1664 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:04:48,379 INFO 1664 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:04:48,379 INFO 1664 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:06:01,848 INFO 11020 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:06:01,848 INFO 11020 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:06:01,848 INFO 11020 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:06:03,991 INFO 10752 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:06:03,991 INFO 10752 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:06:03,991 INFO 10752 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:06:32,614 INFO 8364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:06:32,614 INFO 8364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:06:32,614 INFO 8364 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:06:38,018 INFO 16240 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:06:38,018 INFO 16240 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:06:38,018 INFO 16240 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:10:06,865 INFO 4388 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:10:06,865 INFO 4388 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:10:06,865 INFO 4388 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:10:07,415 INFO 8096 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 55192587ms at 2021-02-01 04:30:00.002
+2021-01-31 13:10:07,416 INFO 8096 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 38992584ms at 2021-02-01 00:00:00.000
+2021-01-31 13:10:07,416 INFO 8096 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 38993584ms at 2021-02-01 00:00:01.000
+2021-01-31 13:11:58,314 INFO 12588 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:11:58,314 INFO 12588 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:11:58,314 INFO 12588 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:12:52,522 INFO 8132 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:12:52,522 INFO 8132 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:12:52,522 INFO 8132 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:12:54,796 INFO 11064 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:12:54,796 INFO 11064 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:12:54,796 INFO 11064 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:14:18,309 INFO 6552 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:14:18,309 INFO 6552 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:14:18,309 INFO 6552 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:21:02,864 INFO 5504 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:21:02,864 INFO 5504 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:21:02,864 INFO 5504 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:21:26,968 INFO 8016 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:21:26,968 INFO 8016 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:21:26,968 INFO 8016 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:29:57,992 INFO 15520 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:29:57,992 INFO 15520 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:29:57,992 INFO 15520 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:31:21,166 INFO 7800 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:31:21,166 INFO 7800 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:31:21,166 INFO 7800 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:37:00,222 INFO 15992 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:37:00,222 INFO 15992 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:37:00,222 INFO 15992 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:45:49,253 INFO 4072 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:45:49,253 INFO 4072 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:45:49,253 INFO 4072 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:46:31,051 INFO 7128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:46:31,051 INFO 7128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:46:31,051 INFO 7128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:47:28,004 INFO 10128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:47:28,004 INFO 10128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:47:28,004 INFO 10128 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:47:30,102 INFO 14872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:47:30,102 INFO 14872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:47:30,102 INFO 14872 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:50:04,859 INFO 15568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:50:04,859 INFO 15568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:50:04,859 INFO 15568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 13:50:15,025 INFO 17192 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 13:50:15,025 INFO 17192 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 13:50:15,025 INFO 17192 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:03:18,884 INFO 16336 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:03:18,884 INFO 16336 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:03:18,885 INFO 16336 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:03:32,769 INFO 9664 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:03:32,769 INFO 9664 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:03:32,769 INFO 9664 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:07:13,501 INFO 10204 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:07:13,501 INFO 10204 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:07:13,501 INFO 10204 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:07:18,147 INFO 16576 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:07:18,147 INFO 16576 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:07:18,147 INFO 16576 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:26:05,517 INFO 17196 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:26:05,517 INFO 17196 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:26:05,517 INFO 17196 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:27:42,251 INFO 17368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:27:42,251 INFO 17368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:27:42,251 INFO 17368 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:27:42,765 INFO 1180 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50537237ms at 2021-02-01 04:30:00.002
+2021-01-31 14:27:42,765 INFO 1180 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34337235ms at 2021-02-01 00:00:00.000
+2021-01-31 14:27:42,766 INFO 1180 [Timer] C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34338235ms at 2021-02-01 00:00:01.001
+2021-01-31 14:58:43,857 INFO 1588 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:58:43,857 INFO 1588 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:58:43,857 INFO 1588 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 14:58:49,066 INFO 11524 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 14:58:49,066 INFO 11524 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 14:58:49,066 INFO 11524 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:04:38,041 INFO 16280 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:04:38,041 INFO 16280 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:04:38,041 INFO 16280 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:06:52,957 INFO 16988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:06:52,957 INFO 16988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:06:52,957 INFO 16988 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:07:04,737 INFO 16568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:07:04,737 INFO 16568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:07:04,737 INFO 16568 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:20:01,004 INFO 7672 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:20:01,004 INFO 7672 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:20:01,004 INFO 7672 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:20:04,514 INFO 12008 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:20:04,514 INFO 12008 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:20:04,514 INFO 12008 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:47:20,789 INFO 9928 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:47:20,789 INFO 9928 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:47:20,789 INFO 9928 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:51:17,192 INFO 5500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:51:17,192 INFO 5500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:51:17,192 INFO 5500 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:52:16,699 INFO 15388 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:52:16,700 INFO 15388 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:52:16,700 INFO 15388 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:53:12,708 INFO 15072 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:53:12,708 INFO 15072 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:53:12,708 INFO 15072 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:55:00,859 INFO 11616 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:55:00,859 INFO 11616 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:55:00,859 INFO 11616 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:55:03,293 INFO 6032 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:55:03,293 INFO 6032 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:55:03,293 INFO 6032 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:55:26,004 INFO 1700 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:55:26,004 INFO 1700 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:55:26,004 INFO 1700 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:56:09,610 INFO 16316 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:56:09,610 INFO 16316 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:56:09,610 INFO 16316 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 15:56:39,176 INFO 15632 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 15:56:39,176 INFO 15632 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 15:56:39,176 INFO 15632 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 18:18:19,735 INFO 20836 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 18:18:19,735 INFO 20836 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 18:18:19,735 INFO 20836 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-01-31 18:18:26,603 INFO 20492 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-01-31 18:18:26,604 INFO 20492 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-01-31 18:18:26,604 INFO 20492 [egg-schedule]: register schedule C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-02-09 16:40:07,622 INFO 2975 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 16:40:07,622 INFO 2975 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 16:40:07,622 INFO 2975 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 16:40:07,861 INFO 2973 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42592140ms at 2021-02-10 04:30:00.001
+2021-02-09 16:40:07,862 INFO 2973 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 26392138ms at 2021-02-10 00:00:00.000
+2021-02-09 16:40:07,862 INFO 2973 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26393138ms at 2021-02-10 00:00:01.000
+2021-02-09 16:52:57,311 INFO 4621 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 16:52:57,311 INFO 4621 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 16:52:57,311 INFO 4621 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 16:53:07,986 INFO 4627 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 16:53:07,986 INFO 4627 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 16:53:07,986 INFO 4627 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 16:54:30,582 INFO 5062 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 16:54:30,582 INFO 5062 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 16:54:30,582 INFO 5062 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 16:54:30,901 INFO 5060 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41729101ms at 2021-02-10 04:30:00.002
+2021-02-09 16:54:30,901 INFO 5060 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25529099ms at 2021-02-10 00:00:00.000
+2021-02-09 16:54:30,901 INFO 5060 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25530099ms at 2021-02-10 00:00:01.000
+2021-02-09 17:13:10,631 INFO 5269 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:13:10,631 INFO 5269 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:13:10,631 INFO 5269 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:13:11,221 INFO 5267 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40608781ms at 2021-02-10 04:30:00.002
+2021-02-09 17:13:11,221 INFO 5267 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24408779ms at 2021-02-10 00:00:00.000
+2021-02-09 17:13:11,222 INFO 5267 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24409778ms at 2021-02-10 00:00:01.000
+2021-02-09 17:24:02,986 INFO 5424 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:24:02,986 INFO 5424 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:24:02,986 INFO 5424 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:24:15,700 INFO 5430 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:24:15,700 INFO 5430 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:24:15,700 INFO 5430 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:30:07,809 INFO 5514 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:30:07,809 INFO 5514 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:30:07,809 INFO 5514 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:35:11,952 INFO 5575 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:35:11,952 INFO 5575 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:35:11,952 INFO 5575 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:37:29,731 INFO 5617 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:37:29,731 INFO 5617 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:37:29,731 INFO 5617 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:38:32,888 INFO 5630 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:38:32,888 INFO 5630 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:38:32,888 INFO 5630 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 17:48:06,544 INFO 5757 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 17:48:06,544 INFO 5757 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 17:48:06,544 INFO 5757 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 18:21:13,683 INFO 6962 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 18:21:13,683 INFO 6962 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 18:21:13,683 INFO 6962 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-09 18:21:14,036 INFO 6961 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 36525966ms at 2021-02-10 04:30:00.002
+2021-02-09 18:21:14,036 INFO 6961 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 20325964ms at 2021-02-10 00:00:00.000
+2021-02-09 18:21:14,036 INFO 6961 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 20326964ms at 2021-02-10 00:00:01.000
+2021-02-09 18:23:44,755 INFO 7018 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-09 18:23:44,755 INFO 7018 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-09 18:23:44,755 INFO 7018 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-11 16:28:52,088 INFO 6480 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-11 16:28:52,088 INFO 6480 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-11 16:28:52,088 INFO 6480 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-11 16:28:52,678 INFO 6475 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 43267324ms at 2021-02-12 04:30:00.002
+2021-02-11 16:28:52,679 INFO 6475 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27067322ms at 2021-02-12 00:00:00.001
+2021-02-11 16:28:52,679 INFO 6475 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27068321ms at 2021-02-12 00:00:01.000
+2021-02-12 13:06:19,205 INFO 8453 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-12 13:06:19,205 INFO 8453 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-12 13:06:19,205 INFO 8453 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-12 13:06:19,846 INFO 8451 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55420156ms at 2021-02-13 04:30:00.002
+2021-02-12 13:06:19,846 INFO 8451 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39220154ms at 2021-02-13 00:00:00.000
+2021-02-12 13:06:19,847 INFO 8451 [Timer] /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39221154ms at 2021-02-13 00:00:01.001
+2021-02-13 12:55:22,065 INFO 9683 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-13 12:55:22,065 INFO 9683 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-13 12:55:22,065 INFO 9683 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-13 12:55:25,923 INFO 9689 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-13 12:55:25,923 INFO 9689 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-13 12:55:25,923 INFO 9689 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-13 12:56:08,352 INFO 9717 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-13 12:56:08,352 INFO 9717 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-13 12:56:08,352 INFO 9717 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-02-13 13:02:15,790 INFO 9862 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-02-13 13:02:15,790 INFO 9862 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-02-13 13:02:15,790 INFO 9862 [egg-schedule]: register schedule /Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

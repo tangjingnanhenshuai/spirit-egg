@@ -1,0 +1,985 @@
+2021-01-23 20:01:58,828 ERROR 7428 nodejs.ClusterClientNoResponseError: client no response in 3263734ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 7428
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:15:24,608 ERROR 16516 [-/192.168.31.171/-/11ms POST /form] nodejs.ENOENTError: ENOENT: no such file or directory, mkdir '../public/uploadt1611458124606'
+    at Object.mkdirSync (fs.js:987:3)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:20:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+errno: -4058
+syscall: "mkdir"
+code: "ENOENT"
+path: "../public/uploadt1611458124606"
+name: "ENOENTError"
+pid: 16516
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:16:03,629 ERROR 17468 [-/192.168.31.171/-/13ms POST /form] nodejs.ENOENTError: ENOENT: no such file or directory, mkdir '../public/upload/t1611458163626'
+    at Object.mkdirSync (fs.js:987:3)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:20:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+errno: -4058
+syscall: "mkdir"
+code: "ENOENT"
+path: "../public/upload/t1611458163626"
+name: "ENOENTError"
+pid: 17468
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:18:09,097 ERROR 4252 [-/192.168.31.171/-/18ms POST /form] nodejs.TypeError: stream is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:23:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 4252
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:19:03,878 ERROR 23520 [-/192.168.31.171/-/14ms POST /form] nodejs.ReferenceError: file is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:25:84)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 23520
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:20:23,262 ERROR 12444 [-/192.168.31.171/-/8ms POST /form] nodejs.TypeError: stream is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:23:24)
+
+pid: 12444
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:21:15,074 ERROR 17136 [-/192.168.31.171/-/27ms POST /form] nodejs.TypeError: files is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:25:24)
+
+pid: 17136
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:21:35,513 ERROR 19104 [-/192.168.31.171/-/18ms POST /form] nodejs.TypeError: files is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:25:24)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 19104
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:24:48,813 ERROR 8004 [-/192.168.31.171/-/11ms POST /form] nodejs.ReferenceError: parts is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:27:35)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 8004
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:25:39,482 ERROR 20952 [-/192.168.31.171/-/23ms POST /form] nodejs.ReferenceError: parts is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:27:35)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 20952
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:26:10,927 ERROR 23500 [-/192.168.31.171/-/17ms POST /form] nodejs.ReferenceError: parts is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:27:23)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 23500
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,217 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458289094"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,234 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458343874"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,239 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458423259"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,243 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458475062"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,247 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458495510"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,251 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458688809"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,264 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458739479"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:28:56,267 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611458770924"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,667 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458475062"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,677 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458495510"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,682 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458688809"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,685 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458739479"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,688 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458770924"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,691 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458289094"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,693 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458343874"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:29:05,697 ERROR 16112 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611458423259"
+name: "EPERMError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:30:43,411 ERROR 3600 [-/192.168.31.171/-/36ms POST /form] nodejs.ReferenceError: path is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:29:86)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 3600
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 14:34:25,533 ERROR 16112 nodejs.ClusterClientNoResponseError: client no response in 2317349ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 16112
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:25:06,192 ERROR 7400 nodejs.unhandledRejectionError: ENOENT: no such file or directory, scandir 'C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\upload\t1611487506163\'
+    at Object.readdirSync (fs.js:1021:3)
+    at Object.readFileList (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\fs.js:8:24)
+    at Object.getChangeFiles (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\fs.js:54:21)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:9:29
+    at new Promise (<anonymous>)
+    at unifiedFile (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:8:12)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:16:14
+    at new Promise (<anonymous>)
+    at Object.start (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:15:15)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:38:41)
+errno: -4058
+syscall: "scandir"
+code: "ENOENT"
+path: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\upload\\t1611487506163\\"
+name: "unhandledRejectionError"
+pid: 7400
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:26:57,173 ERROR 16268 nodejs.unhandledRejectionError: ENOENT: no such file or directory, scandir 'C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\..public\upload\t1611487617151\'
+    at Object.readdirSync (fs.js:1021:3)
+    at Object.readFileList (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\fs.js:8:24)
+    at Object.getChangeFiles (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\fs.js:54:21)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:9:29
+    at new Promise (<anonymous>)
+    at unifiedFile (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:8:12)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:16:14
+    at new Promise (<anonymous>)
+    at Object.start (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:15:15)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:37:41)
+errno: -4058
+syscall: "scandir"
+code: "ENOENT"
+path: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\js\\..public\\upload\\t1611487617151\\"
+name: "unhandledRejectionError"
+pid: 16268
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:18,188 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611487506163"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:18,201 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611487617151"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:18,203 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611487639087"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:18,206 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611487731174"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:18,209 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\upload\\t1611487766943"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:28,063 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611487766943"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:28,071 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611487506163"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:28,073 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611487617151"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:28,075 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611487639087"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:31:28,077 ERROR 5868 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611487731174"
+name: "EPERMError"
+pid: 5868
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:40:49,359 ERROR 16336 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611487968758"
+name: "EPERMError"
+pid: 16336
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:55:28,669 ERROR 1456 [-/127.0.0.1/-/48ms POST /form] nodejs.ReferenceError: res is not defined
+    at startspritesmith (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:37:32)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:38:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+
+pid: 1456
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:56:21,478 ERROR 8064 [-/127.0.0.1/-/45ms POST /form] nodejs.TypeError: typelist.forEach is not a function
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:61:14
+    at new Promise (<anonymous>)
+    at merge (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:60:11)
+    at startspritesmith (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:38:26)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:38:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+
+pid: 8064
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 20:10:01,401 ERROR 8912 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611489328652"
+name: "EPERMError"
+pid: 8912
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 20:10:01,403 ERROR 8912 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611489381445"
+name: "EPERMError"
+pid: 8912
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 20:10:01,422 ERROR 8912 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611489748090"
+name: "EPERMError"
+pid: 8912
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 20:10:01,425 ERROR 8912 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611489846908"
+name: "EPERMError"
+pid: 8912
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 20:10:01,432 ERROR 8912 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611489915916"
+name: "EPERMError"
+pid: 8912
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 20:10:01,436 ERROR 8912 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\myegg\\app\\public\\download\\t1611490031915"
+name: "EPERMError"
+pid: 8912
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 13:12:57,946 ERROR 11064 [-/127.0.0.1/-/5ms POST /getrar] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\app\public\downloadrar\t1612065398589.zip'
+ENOENTError: ENOENT: no such file or directory, open 'C:\app\public\downloadrar\t1612065398589.zip'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\app\\public\\downloadrar\\t1612065398589.zip"
+name: "ENOENTError"
+pid: 11064
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 14:26:08,007 ERROR 17196 [-/127.0.0.1/-/4ms POST /getrar] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\app\public\test.txt'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\app\public\test.txt'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\精灵图代码egg\\myegg\\app\\public\\test.txt"
+name: "ENOENTError"
+pid: 17196
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 15:06:57,429 ERROR 16988 [-/127.0.0.1/-/5ms POST /getrar] nodejs.EISDIRError: EISDIR: illegal operation on a directory, read
+EISDIRError: EISDIR: illegal operation on a directory, read
+errno: -4068
+code: "EISDIR"
+syscall: "read"
+name: "EISDIRError"
+pid: 16988
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 15:07:06,661 ERROR 16568 [-/127.0.0.1/-/5ms POST /getrar] nodejs.EISDIRError: EISDIR: illegal operation on a directory, read
+EISDIRError: EISDIR: illegal operation on a directory, read
+errno: -4068
+code: "EISDIR"
+syscall: "read"
+name: "EISDIRError"
+pid: 16568
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 15:47:02,495 ERROR 12008 [-/127.0.0.1/-/9ms POST /getrar] nodejs.EISDIRError: EISDIR: illegal operation on a directory, read
+EISDIRError: EISDIR: illegal operation on a directory, read
+errno: -4068
+code: "EISDIR"
+syscall: "read"
+name: "EISDIRError"
+pid: 12008
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 17:29:09,865 ERROR 1180 nodejs.ClusterClientNoResponseError: client no response in 5290114ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1180
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 17:43:03,346 ERROR 1180 nodejs.ClusterClientNoResponseError: client no response in 653160ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 1180
+hostname: DESKTOP-Q8J1RB8
+
+2021-02-09 17:08:26,553 ERROR 5060 nodejs.ClusterClientNoResponseError: client no response in 91438ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5060
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-09 18:19:17,032 ERROR 5267 nodejs.ClusterClientNoResponseError: client no response in 672296ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5267
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-11 16:58:31,120 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 1218269ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-11 19:22:38,319 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 8627588ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-11 19:43:35,793 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 1218089ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 00:52:34,020 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 18517549ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 00:56:05,601 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 211541ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 04:58:59,238 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 14411735ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 10:59:14,717 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 21615473ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 12:59:33,189 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 7218463ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 13:05:37,901 ERROR 6475 nodejs.ClusterClientNoResponseError: client no response in 364654ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 6475
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-12 13:54:48,915 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1216675ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 01:35:36,173 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 42026884ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 12:00:10,148 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 37473874ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 12:10:26,414 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 137347ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 12:45:59,889 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1137189ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 16:01:38,926 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1201803ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 16:22:38,112 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1218133ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 16:39:10,266 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 972129ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 16:55:13,424 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 920840ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 17:11:42,756 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 946315ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 17:32:16,910 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1218793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 17:46:00,210 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 783283ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 18:00:50,250 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 870017ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 18:02:44,589 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 74320ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 18:24:22,045 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1217444ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 18:26:19,246 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 99900ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-13 18:48:38,802 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 1219505ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 01:52:52,072 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 25452837ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 02:00:21,019 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 352601ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 04:23:16,010 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 8545775ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 11:19:24,310 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 24968245ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 11:32:50,646 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 506160ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 11:40:11,857 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 421201ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 11:42:26,902 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 116842ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-14 12:20:46,130 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 333843ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-15 00:16:26,846 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 42919873ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-15 02:05:21,667 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 6534574ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-15 02:14:38,915 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 477190ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+
+2021-02-15 21:44:55,525 ERROR 8451 nodejs.ClusterClientNoResponseError: client no response in 70195680ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/huludaowuqilong/Desktop/精灵图代码egg/myegg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8451
+hostname: huludaowuqilongdeMacBook-Pro.local
+

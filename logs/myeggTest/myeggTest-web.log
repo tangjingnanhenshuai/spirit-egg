@@ -1,0 +1,232 @@
+2021-01-24 11:15:24,611 ERROR 16516 [-/192.168.31.171/-/11ms POST /form] nodejs.ENOENTError: ENOENT: no such file or directory, mkdir '../public/uploadt1611458124606'
+    at Object.mkdirSync (fs.js:987:3)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:20:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+errno: -4058
+syscall: "mkdir"
+code: "ENOENT"
+path: "../public/uploadt1611458124606"
+name: "ENOENTError"
+pid: 16516
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:16:03,631 ERROR 17468 [-/192.168.31.171/-/13ms POST /form] nodejs.ENOENTError: ENOENT: no such file or directory, mkdir '../public/upload/t1611458163626'
+    at Object.mkdirSync (fs.js:987:3)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:20:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+errno: -4058
+syscall: "mkdir"
+code: "ENOENT"
+path: "../public/upload/t1611458163626"
+name: "ENOENTError"
+pid: 17468
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:18:09,101 ERROR 4252 [-/192.168.31.171/-/18ms POST /form] nodejs.TypeError: stream is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:23:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 4252
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:19:03,888 ERROR 23520 [-/192.168.31.171/-/14ms POST /form] nodejs.ReferenceError: file is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:25:84)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 23520
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:20:23,278 ERROR 12444 [-/192.168.31.171/-/8ms POST /form] nodejs.TypeError: stream is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:23:24)
+
+pid: 12444
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:21:15,086 ERROR 17136 [-/192.168.31.171/-/27ms POST /form] nodejs.TypeError: files is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:25:24)
+
+pid: 17136
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:21:35,533 ERROR 19104 [-/192.168.31.171/-/18ms POST /form] nodejs.TypeError: files is not iterable
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:25:24)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 19104
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:24:48,816 ERROR 8004 [-/192.168.31.171/-/11ms POST /form] nodejs.ReferenceError: parts is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:27:35)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 8004
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:25:39,512 ERROR 20952 [-/192.168.31.171/-/23ms POST /form] nodejs.ReferenceError: parts is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:27:35)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 20952
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:26:10,931 ERROR 23500 [-/192.168.31.171/-/17ms POST /form] nodejs.ReferenceError: parts is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:27:23)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-compose\index.js:36:12
+
+pid: 23500
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 11:30:43,414 ERROR 3600 [-/192.168.31.171/-/36ms POST /form] nodejs.ReferenceError: path is not defined
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:29:86)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-bodyparser\index.js:95:5)
+
+pid: 3600
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:55:28,674 ERROR 1456 [-/127.0.0.1/-/48ms POST /form] nodejs.ReferenceError: res is not defined
+    at startspritesmith (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:37:32)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:38:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\koa-session\index.js:41:7)
+
+pid: 1456
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-24 19:56:21,480 ERROR 8064 [-/127.0.0.1/-/45ms POST /form] nodejs.TypeError: typelist.forEach is not a function
+    at C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:61:14
+    at new Promise (<anonymous>)
+    at merge (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:60:11)
+    at startspritesmith (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\js\spritesmith.js:38:26)
+    at HomeController.forms (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\controller\home.js:38:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async auther (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\app\middleware\auther.js:5:5)
+    at async C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\myegg\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+
+pid: 8064
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 13:12:57,954 ERROR 11064 [-/127.0.0.1/-/5ms POST /getrar] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\app\public\downloadrar\t1612065398589.zip'
+ENOENTError: ENOENT: no such file or directory, open 'C:\app\public\downloadrar\t1612065398589.zip'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\app\\public\\downloadrar\\t1612065398589.zip"
+name: "ENOENTError"
+pid: 11064
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 14:26:08,013 ERROR 17196 [-/127.0.0.1/-/4ms POST /getrar] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\app\public\test.txt'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Administrator.DESKTOP-Q8J1RB8\Desktop\精灵图代码egg\myegg\app\public\test.txt'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\Administrator.DESKTOP-Q8J1RB8\\Desktop\\精灵图代码egg\\myegg\\app\\public\\test.txt"
+name: "ENOENTError"
+pid: 17196
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 15:06:57,435 ERROR 16988 [-/127.0.0.1/-/5ms POST /getrar] nodejs.EISDIRError: EISDIR: illegal operation on a directory, read
+EISDIRError: EISDIR: illegal operation on a directory, read
+errno: -4068
+code: "EISDIR"
+syscall: "read"
+name: "EISDIRError"
+pid: 16988
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 15:07:06,667 ERROR 16568 [-/127.0.0.1/-/5ms POST /getrar] nodejs.EISDIRError: EISDIR: illegal operation on a directory, read
+EISDIRError: EISDIR: illegal operation on a directory, read
+errno: -4068
+code: "EISDIR"
+syscall: "read"
+name: "EISDIRError"
+pid: 16568
+hostname: DESKTOP-Q8J1RB8
+
+2021-01-31 15:47:02,497 ERROR 12008 [-/127.0.0.1/-/9ms POST /getrar] nodejs.EISDIRError: EISDIR: illegal operation on a directory, read
+EISDIRError: EISDIR: illegal operation on a directory, read
+errno: -4068
+code: "EISDIR"
+syscall: "read"
+name: "EISDIRError"
+pid: 12008
+hostname: DESKTOP-Q8J1RB8
+
